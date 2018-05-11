@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:sesam-deschidete.xcodeproj">
+      location = "self:/Users/alex/hackTM/NativeApps/sesam-deschide-te/sesam-deschide-te.xcodeproj">
    </FileRef>
 </Workspace>

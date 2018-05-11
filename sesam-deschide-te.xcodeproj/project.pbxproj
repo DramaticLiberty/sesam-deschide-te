@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA9BCC1B20A6655C008198A1 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FA9BCC1A20A6655C008198A1 /* Default-568h@2x.png */; };
 		FADDC45D20A6598000A555CB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADDC45C20A6598000A555CB /* AppDelegate.swift */; };
 		FADDC45F20A6598000A555CB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADDC45E20A6598000A555CB /* ViewController.swift */; };
 		FADDC46220A6598000A555CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FADDC46020A6598000A555CB /* Main.storyboard */; };
@@ -15,7 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FADDC45920A6598000A555CB /* sesam-deschidete.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "sesam-deschidete.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA9BCC1A20A6655C008198A1 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		FADDC45920A6598000A555CB /* sesam-deschide-te.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "sesam-deschide-te.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FADDC45C20A6598000A555CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FADDC45E20A6598000A555CB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FADDC46120A6598000A555CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -38,7 +40,8 @@
 		FADDC45020A6598000A555CB = {
 			isa = PBXGroup;
 			children = (
-				FADDC45B20A6598000A555CB /* sesam-deschidete */,
+				FA9BCC1A20A6655C008198A1 /* Default-568h@2x.png */,
+				FADDC45B20A6598000A555CB /* sesam-deschide-te */,
 				FADDC45A20A6598000A555CB /* Products */,
 			);
 			sourceTree = "<group>";
@@ -46,12 +49,12 @@
 		FADDC45A20A6598000A555CB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FADDC45920A6598000A555CB /* sesam-deschidete.app */,
+				FADDC45920A6598000A555CB /* sesam-deschide-te.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FADDC45B20A6598000A555CB /* sesam-deschidete */ = {
+		FADDC45B20A6598000A555CB /* sesam-deschide-te */ = {
 			isa = PBXGroup;
 			children = (
 				FADDC45C20A6598000A555CB /* AppDelegate.swift */,
@@ -61,15 +64,15 @@
 				FADDC46520A6598200A555CB /* LaunchScreen.storyboard */,
 				FADDC46820A6598200A555CB /* Info.plist */,
 			);
-			path = "sesam-deschidete";
+			path = "sesam-deschide-te";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FADDC45820A6598000A555CB /* sesam-deschidete */ = {
+		FADDC45820A6598000A555CB /* sesam-deschide-te */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FADDC46B20A6598200A555CB /* Build configuration list for PBXNativeTarget "sesam-deschidete" */;
+			buildConfigurationList = FADDC46B20A6598200A555CB /* Build configuration list for PBXNativeTarget "sesam-deschide-te" */;
 			buildPhases = (
 				FADDC45520A6598000A555CB /* Sources */,
 				FADDC45620A6598000A555CB /* Frameworks */,
@@ -79,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "sesam-deschidete";
+			name = "sesam-deschide-te";
 			productName = "sesam-deschidete";
-			productReference = FADDC45920A6598000A555CB /* sesam-deschidete.app */;
+			productReference = FADDC45920A6598000A555CB /* sesam-deschide-te.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = FADDC45420A6598000A555CB /* Build configuration list for PBXProject "sesam-deschidete" */;
+			buildConfigurationList = FADDC45420A6598000A555CB /* Build configuration list for PBXProject "sesam-deschide-te" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FADDC45820A6598000A555CB /* sesam-deschidete */,
+				FADDC45820A6598000A555CB /* sesam-deschide-te */,
 			);
 		};
 /* End PBXProject section */
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FADDC46720A6598200A555CB /* LaunchScreen.storyboard in Resources */,
+				FA9BCC1B20A6655C008198A1 /* Default-568h@2x.png in Resources */,
 				FADDC46420A6598200A555CB /* Assets.xcassets in Resources */,
 				FADDC46220A6598000A555CB /* Main.storyboard in Resources */,
 			);
@@ -287,7 +291,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sesam-deschidete";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sesam-deschide-te";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -305,7 +309,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sesam-deschidete";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sesam-deschide-te";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -315,7 +319,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FADDC45420A6598000A555CB /* Build configuration list for PBXProject "sesam-deschidete" */ = {
+		FADDC45420A6598000A555CB /* Build configuration list for PBXProject "sesam-deschide-te" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FADDC46920A6598200A555CB /* Debug */,
@@ -324,7 +328,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FADDC46B20A6598200A555CB /* Build configuration list for PBXNativeTarget "sesam-deschidete" */ = {
+		FADDC46B20A6598200A555CB /* Build configuration list for PBXNativeTarget "sesam-deschide-te" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FADDC46C20A6598200A555CB /* Debug */,
