@@ -41,7 +41,7 @@
 			isa = PBXGroup;
 			children = (
 				FA9BCC1A20A6655C008198A1 /* Default-568h@2x.png */,
-				FADDC45B20A6598000A555CB /* sesam-deschide-te */,
+				FADDC45B20A6598000A555CB /* sesam-deschidete */,
 				FADDC45A20A6598000A555CB /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,7 +54,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FADDC45B20A6598000A555CB /* sesam-deschide-te */ = {
+		FADDC45B20A6598000A555CB /* sesam-deschidete */ = {
 			isa = PBXGroup;
 			children = (
 				FADDC45C20A6598000A555CB /* AppDelegate.swift */,
@@ -64,7 +64,7 @@
 				FADDC46520A6598200A555CB /* LaunchScreen.storyboard */,
 				FADDC46820A6598200A555CB /* Info.plist */,
 			);
-			path = "sesam-deschide-te";
+			path = "sesam-deschidete";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
